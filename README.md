@@ -12,8 +12,8 @@ Main functions are: CRM, Website Builder, e-Commerce Manager, Warehouse Manager,
 You need to have:
 * a Cloud Server
 * a Domain pointing to your cloud server
-* - www subdomain will be your website
-* - manage subdomain will be your managing area, for you and your employees.
+  - www subdomain will be your website
+  - manage subdomain will be your managing area, for you and your employees.
 * a Business360 Partner
 
 ### Installing
